@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/ioanniss/facebook/build",
+  "command": "/usr/bin/clang++ -Weverything -Wno-c++98-compat -Wno-missing-prototypes -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=c++17 -ggdb3 -O0 -o CMakeFiles/fac.dir/threaded_bfs.cpp.o -c /Users/ioanniss/facebook/threaded_bfs.cpp",
+  "file": "/Users/ioanniss/facebook/threaded_bfs.cpp"
+}
+]
